@@ -2,7 +2,7 @@
 
 Netshare X is program which can help you to transfer files over the air.
 
-**NOTE** This is beta version!
+**NOTE** You may find bugs on Termux. This will be fixed soon!
 
 ***
 
@@ -14,4 +14,4 @@ First install XLPM if you haven't it yet. Clone VladosNX/xlpm and install
 
 To install Netsharex, run these commands:
 
-> sudo xlpm -g vladosnx/netsharex
+> sudo xlpm getgit vladosnx/netsharex
