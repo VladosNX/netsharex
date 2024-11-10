@@ -1,3 +1,5 @@
+[INSTANT INSTALL WITH XLPM](http://localhost:19340/getgit?pkg=vladosnx___netsharex)
+
 # NetShare X
 
 Netshare X is program which can help you to transfer files over the air.
